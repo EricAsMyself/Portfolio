@@ -56,7 +56,7 @@ function App() {
     <div className="app">
       <div className="container">
         <div className='authortext'>
-          Eric Poole a
+          Eric Poole a 
         </div>
         <div className="scroll-wheel">
           <div>{words[word]}</div>
